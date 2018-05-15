@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.company.project.dao.Ac20Mapper">
+  <resultMap id="BaseResultMap" type="com.company.project.model.Ac20">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="AAZ157" jdbcType="DECIMAL" property="aaz157" />
+    <result column="AAZ159" jdbcType="DECIMAL" property="aaz159" />
+    <result column="AAZ308" jdbcType="DECIMAL" property="aaz308" />
+    <result column="EAZ132" jdbcType="VARCHAR" property="eaz132" />
+    <result column="AAA027" jdbcType="VARCHAR" property="aaa027" />
+    <result column="AAZ001" jdbcType="DECIMAL" property="aaz001" />
+    <result column="AAC001" jdbcType="DECIMAL" property="aac001" />
+    <result column="AAE140" jdbcType="VARCHAR" property="aae140" />
+    <result column="EAC066" jdbcType="VARCHAR" property="eac066" />
+    <result column="AAC013" jdbcType="VARCHAR" property="aac013" />
+    <result column="AAZ289" jdbcType="DECIMAL" property="aaz289" />
+    <result column="AAB033" jdbcType="VARCHAR" property="aab033" />
+    <result column="AAE030" jdbcType="DECIMAL" property="aae030" />
+    <result column="AIC020" jdbcType="DECIMAL" property="aic020" />
+    <result column="AAE300" jdbcType="VARCHAR" property="aae300" />
+    <result column="AAC031" jdbcType="VARCHAR" property="aac031" />
+    <result column="AAE011" jdbcType="VARCHAR" property="aae011" />
+    <result column="AAE036" jdbcType="TIMESTAMP" property="aae036" />
+    <result column="PRSENO" jdbcType="DECIMAL" property="prseno" />
+    <result column="EZD001" jdbcType="VARCHAR" property="ezd001" />
+    <result column="AAE002" jdbcType="DECIMAL" property="aae002" />
+    <result column="EZD134" jdbcType="DECIMAL" property="ezd134" />
+  </resultMap>
+</mapper>

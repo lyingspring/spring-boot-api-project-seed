@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.lihengming</groupId>
-    <artifactId>spring-boot-api-project-seed</artifactId>
+    <artifactId>spring-boot-api-hnsi</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
@@ -50,6 +50,15 @@
             <artifactId>guava</artifactId>
             <version>23.0</version>
         </dependency>
+     
+    <dependency>
+    <groupId>com.oracle</groupId>
+    <artifactId>ojdbc6</artifactId>
+    <version>11.2.0.1.0</version>
+	</dependency>
+                                    
+   
+	
         <!--MySQL JDBC驱动-->
         <dependency>
             <groupId>mysql</groupId>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.company.project.dao.Ag02Mapper">
+  <resultMap id="BaseResultMap" type="com.company.project.model.Ag02">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="AAC016" jdbcType="VARCHAR" property="aac016" />
+    <result column="AAB005" jdbcType="VARCHAR" property="aab005" />
+    <result column="AAC001" jdbcType="DECIMAL" property="aac001" />
+    <result column="EAB041" jdbcType="VARCHAR" property="eab041" />
+    <result column="EAB042" jdbcType="VARCHAR" property="eab042" />
+    <result column="EAB043" jdbcType="VARCHAR" property="eab043" />
+    <result column="EAB044" jdbcType="VARCHAR" property="eab044" />
+    <result column="EAB045" jdbcType="VARCHAR" property="eab045" />
+    <result column="EAB046" jdbcType="VARCHAR" property="eab046" />
+    <result column="EAB047" jdbcType="VARCHAR" property="eab047" />
+    <result column="EAB048" jdbcType="VARCHAR" property="eab048" />
+    <result column="EAB049" jdbcType="VARCHAR" property="eab049" />
+    <result column="EAB050" jdbcType="VARCHAR" property="eab050" />
+    <result column="EAB051" jdbcType="TIMESTAMP" property="eab051" />
+    <result column="EAB052" jdbcType="VARCHAR" property="eab052" />
+    <result column="EAB053" jdbcType="VARCHAR" property="eab053" />
+    <result column="EAB054" jdbcType="TIMESTAMP" property="eab054" />
+    <result column="EAB055" jdbcType="VARCHAR" property="eab055" />
+    <result column="AAE010" jdbcType="VARCHAR" property="aae010" />
+    <result column="EAB056" jdbcType="VARCHAR" property="eab056" />
+    <result column="EAB057" jdbcType="VARCHAR" property="eab057" />
+    <result column="EAB058" jdbcType="VARCHAR" property="eab058" />
+    <result column="EAB059" jdbcType="VARCHAR" property="eab059" />
+    <result column="EAB060" jdbcType="VARCHAR" property="eab060" />
+    <result column="EAB061" jdbcType="VARCHAR" property="eab061" />
+    <result column="PRSENO" jdbcType="DECIMAL" property="prseno" />
+    <result column="EAB003" jdbcType="DECIMAL" property="eab003" />
+    <result column="EAB062" jdbcType="VARCHAR" property="eab062" />
+    <result column="AAE135" jdbcType="VARCHAR" property="aae135" />
+    <result column="AAZ308" jdbcType="DECIMAL" property="aaz308" />
+    <result column="EAB063" jdbcType="VARCHAR" property="eab063" />
+    <result column="EAB002" jdbcType="VARCHAR" property="eab002" />
+  </resultMap>
+</mapper>

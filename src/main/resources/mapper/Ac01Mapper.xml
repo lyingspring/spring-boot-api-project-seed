@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.company.project.dao.Ac01Mapper">
+  <resultMap id="BaseResultMap" type="com.company.project.model.Ac01">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="AAC001" jdbcType="DECIMAL" property="aac001" />
+    <result column="AAZ308" jdbcType="DECIMAL" property="aaz308" />
+    <result column="EAC001" jdbcType="VARCHAR" property="eac001" />
+    <result column="AAA029" jdbcType="VARCHAR" property="aaa029" />
+    <result column="AAE135" jdbcType="VARCHAR" property="aae135" />
+    <result column="AAB301" jdbcType="VARCHAR" property="aab301" />
+    <result column="AAC003" jdbcType="VARCHAR" property="aac003" />
+    <result column="AAC004" jdbcType="VARCHAR" property="aac004" />
+    <result column="AAC005" jdbcType="VARCHAR" property="aac005" />
+    <result column="AAC006" jdbcType="DECIMAL" property="aac006" />
+    <result column="AAC007" jdbcType="DECIMAL" property="aac007" />
+    <result column="AAC009" jdbcType="VARCHAR" property="aac009" />
+    <result column="AAC010" jdbcType="VARCHAR" property="aac010" />
+    <result column="EAB009" jdbcType="VARCHAR" property="eab009" />
+    <result column="EAB030" jdbcType="VARCHAR" property="eab030" />
+    <result column="AAC011" jdbcType="VARCHAR" property="aac011" />
+    <result column="AAC012" jdbcType="VARCHAR" property="aac012" />
+    <result column="AAC014" jdbcType="VARCHAR" property="aac014" />
+    <result column="AAC015" jdbcType="VARCHAR" property="aac015" />
+    <result column="AAC017" jdbcType="VARCHAR" property="aac017" />
+    <result column="AAC020" jdbcType="VARCHAR" property="aac020" />
+    <result column="AAE005" jdbcType="VARCHAR" property="aae005" />
+    <result column="AAE006" jdbcType="VARCHAR" property="aae006" />
+    <result column="AAE007" jdbcType="VARCHAR" property="aae007" />
+    <result column="AAE159" jdbcType="VARCHAR" property="aae159" />
+    <result column="AAB401" jdbcType="VARCHAR" property="aab401" />
+    <result column="AAE147" jdbcType="VARCHAR" property="aae147" />
+    <result column="EAC101" jdbcType="VARCHAR" property="eac101" />
+    <result column="AAC028" jdbcType="VARCHAR" property="aac028" />
+    <result column="AAE013" jdbcType="VARCHAR" property="aae013" />
+    <result column="PRSENO" jdbcType="DECIMAL" property="prseno" />
+    <result column="EAC149" jdbcType="VARCHAR" property="eac149" />
+    <result column="EAC164" jdbcType="DECIMAL" property="eac164" />
+    <result column="EAC165" jdbcType="VARCHAR" property="eac165" />
+    <result column="EAC166" jdbcType="VARCHAR" property="eac166" />
+  </resultMap>
+</mapper>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.company.project.dao.Aa10Mapper">
+  <resultMap id="BaseResultMap" type="com.company.project.model.Aa10">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="AAZ093" jdbcType="DECIMAL" property="aaz093" />
+    <result column="AAA100" jdbcType="VARCHAR" property="aaa100" />
+    <result column="AAA102" jdbcType="VARCHAR" property="aaa102" />
+    <result column="AAA103" jdbcType="VARCHAR" property="aaa103" />
+    <result column="AAA105" jdbcType="VARCHAR" property="aaa105" />
+    <result column="AAE100" jdbcType="VARCHAR" property="aae100" />
+    <result column="AAA104" jdbcType="VARCHAR" property="aaa104" />
+    <result column="PRSENO" jdbcType="DECIMAL" property="prseno" />
+  </resultMap>
+</mapper>
